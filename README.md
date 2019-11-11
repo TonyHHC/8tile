@@ -2,6 +2,9 @@
 Chinese 8-Tile Puzzle
 使用 BFS 演算法解決 8 tile puzzle
 
+# why?
+為了幫同事兒子寫作業，重拾好久未寫的 c 程式
+
 # 開發環境
 ubuntu 18.04 + gcc + SDL library
 
